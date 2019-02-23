@@ -1,4 +1,4 @@
-# General Assembly Project 2 : 1 day Hackathon
+# General Assembly Project 2 : React 1 day Hackathon
 
 Live Version: https://hackathon-react-one-day.herokuapp.com/
 
@@ -21,7 +21,7 @@ Build an Express App based on your idea using at least one API (pair coding)
 * Heroku
 * Express
 
-### APIs:
+#### APIs:
 
 * Mapbox
 * Skiddle
@@ -129,8 +129,9 @@ href="https://www.google.com/maps/dir/?api=1&origin=${this.props.userLat},${this
 
 ### Wins
 
-I am really pleased and proud how we develop our idea since the beginning. Our App is how the always had in our mind
-
+I am really pleased and proud of how we develop our idea since the beginning.
+What people can now see on the screen is how we have image while drawing the mockup. Working with Beth was a great pleasure because we have always get along and been in the same path at all the time which help to manage me when working in a team.
+Approaching the project step by step was a great step so we did not struggle too much on fixing bugs while testing. Sharing the ideas and discuss which could be the best to realised considering our deadline was also part of great teamwork.
 
 
 
