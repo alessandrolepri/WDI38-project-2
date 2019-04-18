@@ -1,6 +1,6 @@
 # General Assembly Project 2 : React 1 day Hackathon
 
-Live Version: https://hackathon-react-one-day.herokuapp.com/
+Live Version: https://react-events-now.herokuapp.com/
 
 ### Timeframe
 1 day
